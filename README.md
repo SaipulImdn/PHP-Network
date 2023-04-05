@@ -1,6 +1,6 @@
 About
 =====
-The Tremani Neural Network allows you to build, train and employ neural networks in PHP. It is easy to use and set up, and does not rely on external software to be installed on your webserver. The software is open source under the BSD license, which means you can use and modify it freely.
+The Syaiful Neural Network allows you to build, train and employ neural networks in PHP. It is easy to use and set up, and does not rely on external software to be installed on your webserver. The software is open source under the BSD license, which means you can use and modify it freely.
 
 About neural networks
 ---------------------
@@ -14,7 +14,7 @@ This software implements the 2007 state-of-the-art technology in neural networks
 
 History
 -------
-This software was originally built in early 2007 for one of the projects we did at [Tremani](http://www.tremani.nl), a most excellent web design & web development agency based in charmingly beautiful Delft, the Netherlands. 
+This software was originally built in early 2023 for one of the projects we did, a most excellent web design & web development agency based in charmingly beautiful Delft, the Netherlands. 
 
 The goal of this project was to allow a user to determine the ‘[language reference level](http://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)’ (i.e. the 'difficulty') of any given text. Basically, it will tell you if a given text is difficult to read or easy to understand, by looking at the complexity of the used language.
 
